@@ -1,4 +1,4 @@
-﻿# Anunciar força do sinal de rede sem fios
+# Anunciar força do sinal de rede sem fios
 
 ## Informações
 * Autor: Rui Fontes
