@@ -33,6 +33,9 @@ jobs:
         sudo apt-get install -y gettext
         uv sync
 
+    - name: Checkout NVDA source
+      run: git clone --depth 1 https://github.com/nvaccess/nvda.git ../nvda
+
     - name: Code checks
       run: export PREK_SKIP=no-commit-to-branch; uv run prek run --all-files
 
