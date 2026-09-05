@@ -1,4 +1,4 @@
-﻿# Announces wireless network strenght
+# Announces wireless network strenght
 
 ## Informations ##
 * Author: Rui Fontes
